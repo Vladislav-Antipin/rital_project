@@ -18,5 +18,4 @@ Avec n et m allant de 1 à 7
 Salle 104 : G1 (élèves avec Matthieu)
 Salle 102 : G2 (élèves avec Zofia)
 Lien du gsheet pour s’inscrire:
-https://docs.google.com/spreadsheets/d/1XWQsBHmU9WQyMt9s11BlYMAypNK_TbUDiNHt
-E6qCNw4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1XWQsBHmU9WQyMt9s11BlYMAypNK_TbUDiNHtE6qCNw4/edit?usp=sharing
